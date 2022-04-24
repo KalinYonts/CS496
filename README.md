@@ -1,5 +1,6 @@
-# CS 496 - Senior Project & Professional Practice
-Haunted: VR Game 
+# Haunted: VR Game 
+CS 496 - Senior Project & Professional Practice
+
 Creators: Kalin Yonts, Cal Zafren, Amanda Poole
 
 The final version of this project is loaded to the Oculus Quest 2 headset that was utilized during the Final Presentation. To run this project on any other device, it is recommended to do the following:
